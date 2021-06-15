@@ -1,0 +1,5 @@
+2021-05-28 11:33:49,579 INFO [cn.kgc.foodieaa.core.IO] - modify config item lastOffset successfully : 332
+2021-05-28 11:37:05,108 INFO [cn.kgc.foodieaa.core.IO] - modify config item lastOffset successfully : 201
+2021-05-28 11:37:05,118 INFO [cn.kgc.foodieaa.core.IO] - settle successfully 2021-05-26~2021-05-28 at 2021-05-28 11:37:05 108
+2021-05-28 11:37:58,521 INFO [cn.kgc.foodieaa.core.IO] - modify config item lastOffset successfully : 343
+2021-05-28 11:37:58,521 INFO [cn.kgc.foodieaa.core.IO] - settle successfully 2021-05-29~2021-05-30 at 2021-05-28 11:37:58 521
